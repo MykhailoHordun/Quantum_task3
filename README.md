@@ -1,12 +1,12 @@
 ### Tasks 1 and 2
-To run tasks 1 and 2
+#### To run tasks 1 and 2
   1. Save this repo
   2. Install all requirements
   3. Open file tasks_1_2.jpynb 
   4. Run cells with code
 
 ### Task 3
-To run task 3
+##### To run task 3
   1. Save this repo
   2. Install all requirements
   3. Open file task3.jpynb
@@ -14,7 +14,7 @@ To run task 3
   5. Run cells with code
 
 ### Task 4
-To run task 4
+#### To run task 4
   1. Save this repo
   2. Install all requirements
   3. Open file task4.jpynb
@@ -23,3 +23,6 @@ To run task 4
     5.1 Preferebly to have CUDA 11.1 and Python 3.10.10
     5.2 Change values of image_path and mask_path in the augumentation cell
   6. Run code
+  
+  #### Use pretrained model
+  To use pretrained model uo need to download file erosion_model.h5 
