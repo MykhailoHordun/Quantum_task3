@@ -25,4 +25,4 @@
   6. Run code
   
   #### Use pretrained model
-  To use pretrained model uo need to download file erosion_model.h5 
+  To use pretrained model uo need to download file erosion_model.h5 from [Google Drive](https://drive.google.com/drive/folders/14c-lylZR9fawOkoaQSyqTOVs6SFt7rea) and set parameter pretrained_weights as pash to this file 
